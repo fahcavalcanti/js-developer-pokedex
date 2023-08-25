@@ -3,6 +3,7 @@
 Pokedex
 
 Descrição
+
 A Pokedex é uma aplicação web interativa que permite aos usuários explorar uma vasta lista de pokémons, acessando suas informações detalhadas. A aplicação consome dados da PokeAPI, fornecendo uma experiência amigável e envolvente para os fãs de Pokémon.
 
 Funcionalidades
