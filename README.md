@@ -41,7 +41,7 @@ Contribuições são bem-vindas! Se você quiser contribuir com melhorias, corre
 5. Abra um Pull Request.
 
 Licença
-Este projeto está licenciado sob a Licença XYZ.
+Este projeto está licenciado sob a Licença MIT.
 
 ---
 
